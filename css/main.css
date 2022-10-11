@@ -345,6 +345,7 @@ section .img-wripper {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: 80% 5%;
 }
 .blog-card .card-title {
   background: var(--light);
@@ -569,6 +570,8 @@ section .img-wripper{
 .blogs .blog-wreaper{
   grid-template-columns: repeat(1, 1fr);
 }
+
+
 .blogs{
   padding-bottom: 15rem;
 }
